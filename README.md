@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Joel
+#  Joel
 
 **`Estudante e Desenvolvedor`**
 
