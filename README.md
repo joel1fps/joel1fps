@@ -2,7 +2,7 @@
 
 **`Estudante e Desenvolvedor`**
 
-Me chamo Joel, tenho 19 anos e sou natural de Teresina. Pi. Atualmente estou cursando duas faculdades: Bacharelado em Direito e Tecnólogo em Inteligência Artificial voltada à Programação, na Faculdade Centro de Tecnologia de Teresina (Estadual).
+Me chamo Joel, tenho 20 anos e sou natural de Teresina. Pi. Atualmente estou cursando duas faculdades: Bacharelado em Direito e Tecnólogo em Inteligência Artificial voltada à Programação, na Faculdade Centro de Tecnologia de Teresina (Estadual).
 
 <p align="left">
     <a href="https://github.com/joel1fps?tab=repositories&sort=stargazers">
